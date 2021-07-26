@@ -2,6 +2,7 @@ serpent = dofile("./File_Libs/serpent.lua")
 https = require("ssl.https")
 http = require("socket.http")
 JSON = dofile("./File_Libs/JSON.lua")
+serpent = dofile("./File_Libs/serpent.lua")
 local database = dofile("./File_Libs/redis.lua").connect("127.0.0.1", 6379)
 print([[
 
