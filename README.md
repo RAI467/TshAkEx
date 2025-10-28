@@ -6,7 +6,7 @@ ________________________________________________________________________________
 Installation
 ------------
 
-install :
+install :https://github.com/TEAMTshakeX/TshAkEx
 
 ```https://github.com/TshAkEAb/TshAkE && cd TshAkE && chmod +x install.sh && ./install.sh```
 
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 When the installation is completed,
 
 1. He will asks the token
-like :
+like :AAFMonMlN0GMIMfIGmqTH07-V5BDc5hMXzs
 ------
 
 ![Token](https://e.top4top.net/p_84060nx91.jpg)
@@ -25,7 +25,7 @@ like :
 ______________________________________________________________________________________________________________________
 
 2. he will asks the sudo ID
-like :
+like :7848314777
 ------
 
 ![sudo](https://d.top4top.net/p_8405q10k1.jpg)
