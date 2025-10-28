@@ -15,7 +15,7 @@ ________________________________________________________________________________
 When the installation is completed,
 
 1. He will asks the token
-like :
+like :AAHKIaSDMO2GILe5yAh7DDSlijAmBCJOSOE
 ------
 
 ![Token](https://e.top4top.net/p_84060nx91.jpg)
@@ -25,7 +25,7 @@ like :
 ______________________________________________________________________________________________________________________
 
 2. he will asks the sudo ID
-like :
+like :8281495791:
 ------
 
 ![sudo](https://d.top4top.net/p_8405q10k1.jpg)
